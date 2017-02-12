@@ -2,7 +2,7 @@
 Frdm-KL25Z firmware using MATLAB Simulink
 
 
-#Author: Vasutorn Siriyakorn, 2017
+Author: Vasutorn Siriyakorn, kasetsart university , 2017
 
 #Require
   
